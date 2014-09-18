@@ -1,4 +1,1 @@
-Sinatra-Skeleton
-================
-
-An MVC Sinatra Skeleton.
+An MVC Sinatra Skeleton
